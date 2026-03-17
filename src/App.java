@@ -115,7 +115,7 @@ public class App {
         
     }
     public static void main(String[] args) {
-/**
+
         for(int i=0;i<tamanhosTesteGrande.length;i++) {
             int n[];
             n=gerarVetor(tamanhosTesteGrande[i]);
@@ -139,7 +139,7 @@ public class App {
             System.out.println((tempo));
             System.out.println(operacoes);
         }
-**/
+
 
         for(int i=0;i<tamanhosTestePequeno.length;i++){
             int b;
