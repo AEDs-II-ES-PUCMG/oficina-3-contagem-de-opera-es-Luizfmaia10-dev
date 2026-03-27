@@ -127,6 +127,7 @@ public class App {
             System.out.println((tempo));
             System.out.println(operacoes);
         }
+ /**
 
         for(int i=0;i<tamanhosTesteMedio.length;i++) {
             int a[];
@@ -140,7 +141,6 @@ public class App {
             System.out.println(operacoes);
         }
 
-
         for(int i=0;i<tamanhosTestePequeno.length;i++){
             int b;
             b=tamanhosTestePequeno[i];
@@ -152,5 +152,6 @@ public class App {
             System.out.println((tempo));
             System.out.println(operacoes);
         }
+ **/
     }
 }
